@@ -1,0 +1,38 @@
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\Cizelgeleme - Kopya\Scheduling\bin\Debug\Scheduling.exe.config
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\Scheduling\Scheduling\bin\Debug\Scheduling.exe.config
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\Scheduling\Scheduling\bin\Debug\Scheduling.exe
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\Scheduling\Scheduling\bin\Debug\Scheduling.pdb
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\Scheduling\Scheduling\obj\Debug\Scheduling.csprojResolveAssemblyReference.cache
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\Scheduling\Scheduling\obj\Debug\Scheduling.Properties.Resources.resources
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\Scheduling\Scheduling\obj\Debug\Scheduling.csproj.GenerateResource.Cache
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\Scheduling\Scheduling\obj\Debug\Scheduling.exe
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\Scheduling\Scheduling\obj\Debug\Scheduling.pdb
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\Scheduling\Scheduling\obj\Debug\Scheduling.MainForm.resources
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\Scheduling-with-Genetic-Algorithyms\Scheduling\bin\Debug\Scheduling.exe.config
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\Scheduling-with-Genetic-Algorithyms\Scheduling\obj\Debug\Scheduling.exe
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\Scheduling-with-Genetic-Algorithyms\Scheduling\obj\Debug\Scheduling.pdb
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\Scheduling-with-Genetic-Algorithyms\Scheduling\bin\Debug\Scheduling.exe
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\Scheduling-with-Genetic-Algorithyms\Scheduling\bin\Debug\Scheduling.pdb
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\Scheduling-with-Genetic-Algorithyms\Scheduling\obj\Debug\Scheduling.csprojResolveAssemblyReference.cache
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\Scheduling-with-Genetic-Algorithyms\Scheduling\obj\Debug\Scheduling.MainForm.resources
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\Scheduling-with-Genetic-Algorithyms\Scheduling\obj\Debug\Scheduling.Properties.Resources.resources
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\Scheduling-with-Genetic-Algorithyms\Scheduling\obj\Debug\Scheduling.csproj.GenerateResource.Cache
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\JSSP-with-Genetic-Algorithm\Scheduling\bin\Debug\Scheduling.exe.config
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\JSSP-with-Genetic-Algorithm\Scheduling\bin\Debug\Scheduling.exe
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\JSSP-with-Genetic-Algorithm\Scheduling\bin\Debug\Scheduling.pdb
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\JSSP-with-Genetic-Algorithm\Scheduling\obj\Debug\Scheduling.csprojResolveAssemblyReference.cache
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\JSSP-with-Genetic-Algorithm\Scheduling\obj\Debug\Scheduling.MainForm.resources
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\JSSP-with-Genetic-Algorithm\Scheduling\obj\Debug\Scheduling.Properties.Resources.resources
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\JSSP-with-Genetic-Algorithm\Scheduling\obj\Debug\Scheduling.csproj.GenerateResource.Cache
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\JSSP-with-Genetic-Algorithm\Scheduling\obj\Debug\Scheduling.exe
+C:\Users\ali93\Documents\Visual Studio 2013\Projects\JSSP-with-Genetic-Algorithm\Scheduling\obj\Debug\Scheduling.pdb
+C:\Users\USER\Desktop\Job-Shop-Scheduling-Genetic-Algorithm-master\Scheduling\bin\Debug\Scheduling.exe.config
+C:\Users\USER\Desktop\Job-Shop-Scheduling-Genetic-Algorithm-master\Scheduling\bin\Debug\Scheduling.exe
+C:\Users\USER\Desktop\Job-Shop-Scheduling-Genetic-Algorithm-master\Scheduling\bin\Debug\Scheduling.pdb
+C:\Users\USER\Desktop\Job-Shop-Scheduling-Genetic-Algorithm-master\Scheduling\obj\Debug\Scheduling.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Job-Shop-Scheduling-Genetic-Algorithm-master\Scheduling\obj\Debug\Scheduling.MainForm.resources
+C:\Users\USER\Desktop\Job-Shop-Scheduling-Genetic-Algorithm-master\Scheduling\obj\Debug\Scheduling.Properties.Resources.resources
+C:\Users\USER\Desktop\Job-Shop-Scheduling-Genetic-Algorithm-master\Scheduling\obj\Debug\Scheduling.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Job-Shop-Scheduling-Genetic-Algorithm-master\Scheduling\obj\Debug\Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Job-Shop-Scheduling-Genetic-Algorithm-master\Scheduling\obj\Debug\Scheduling.exe
+C:\Users\USER\Desktop\Job-Shop-Scheduling-Genetic-Algorithm-master\Scheduling\obj\Debug\Scheduling.pdb
